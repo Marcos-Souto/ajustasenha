@@ -1,0 +1,1212 @@
+2018-09-03 15:49:46,895 - log - INFO - LerArquivosXLS - <module> - Arquivo 24082018083211_GRUPO_107.xls gravado com sucesso
+2018-09-03 15:49:47,326 - log - INFO - LerArquivosXLS - <module> - Arquivo 24082018083221_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:21,431 - log - INFO - LerArquivosXLS - <module> - Arquivo 03082018091636_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:24,520 - log - INFO - LerArquivosXLS - <module> - Arquivo 03082018091649_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:26,824 - log - INFO - LerArquivosXLS - <module> - Arquivo 06072018084538_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:29,404 - log - INFO - LerArquivosXLS - <module> - Arquivo 06072018084600_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:31,557 - log - INFO - LerArquivosXLS - <module> - Arquivo 10082018085655_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:34,941 - log - INFO - LerArquivosXLS - <module> - Arquivo 10082018085710_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:37,060 - log - INFO - LerArquivosXLS - <module> - Arquivo 13072018085819_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:38,185 - log - INFO - LerArquivosXLS - <module> - Arquivo 13072018085826_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:39,637 - log - INFO - LerArquivosXLS - <module> - Arquivo 20072018135356_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:42,697 - log - INFO - LerArquivosXLS - <module> - Arquivo 20072018135411_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:46,117 - log - INFO - LerArquivosXLS - <module> - Arquivo 24082018083211_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:47,970 - log - INFO - LerArquivosXLS - <module> - Arquivo 24082018083221_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:49,968 - log - INFO - LerArquivosXLS - <module> - Arquivo 27072018084146_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:51,032 - log - INFO - LerArquivosXLS - <module> - Arquivo 27072018084151_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:57,080 - log - INFO - LerArquivosXLS - <module> - Arquivo 31082018105229_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:25:01,518 - log - INFO - LerArquivosXLS - <module> - Arquivo 31082018105246_GRUPO_435.xls gravado com sucesso
+2018-09-06 11:58:59,123 - log - INFO - LerArquivosXLS - <module> - Arquivo 05092018075813_GRUPO_700.xls gravado com sucesso
+2018-09-06 11:58:59,896 - log - INFO - LerArquivosXLS - <module> - Arquivo 06092018075642_GRUPO_700.xls gravado com sucesso
+2018-09-04 14:21:53,366 - log - INFO - GerarPlanilha - <module> - Arquivo 01092018195852_PED154747366.htm gravado com sucesso
+2018-09-04 14:21:54,106 - log - INFO - GerarPlanilha - <module> - Arquivo 02082018154743_PED153533115.htm gravado com sucesso
+2018-09-04 14:21:54,772 - log - INFO - GerarPlanilha - <module> - Arquivo 03072018104623_PED152381132.htm gravado com sucesso
+2018-09-04 14:21:55,531 - log - INFO - GerarPlanilha - <module> - Arquivo 03082018112521_PED153588179.htm gravado com sucesso
+2018-09-04 14:21:56,192 - log - INFO - GerarPlanilha - <module> - Arquivo 03092018081927_PED154594833.htm gravado com sucesso
+2018-09-04 14:21:56,849 - log - INFO - GerarPlanilha - <module> - Arquivo 03092018093202_PED152767818.htm gravado com sucesso
+2018-09-04 14:21:57,661 - log - INFO - GerarPlanilha - <module> - Arquivo 03092018124807_PED154734519.htm gravado com sucesso
+2018-09-04 14:21:58,326 - log - INFO - GerarPlanilha - <module> - Arquivo 03092018153205_PED154712294.htm gravado com sucesso
+2018-09-04 14:21:59,070 - log - INFO - GerarPlanilha - <module> - Arquivo 04062018130109_PED151294012.htm gravado com sucesso
+2018-09-04 14:21:59,753 - log - INFO - GerarPlanilha - <module> - Arquivo 04062018144248_PED151339159.htm gravado com sucesso
+2018-09-04 14:22:00,521 - log - INFO - GerarPlanilha - <module> - Arquivo 04062018160139_PED151324458.htm gravado com sucesso
+2018-09-04 14:22:01,203 - log - INFO - GerarPlanilha - <module> - Arquivo 04082018190932_PED153656527.htm gravado com sucesso
+2018-09-04 14:22:01,914 - log - INFO - GerarPlanilha - <module> - Arquivo 05062018131821_PED151354244.htm gravado com sucesso
+2018-09-04 14:22:02,598 - log - INFO - GerarPlanilha - <module> - Arquivo 05062018131853_PED151348773.htm gravado com sucesso
+2018-09-04 14:22:03,775 - log - INFO - GerarPlanilha - <module> - Arquivo 05062018133215_PED151348458.htm gravado com sucesso
+2018-09-04 14:22:05,215 - log - INFO - GerarPlanilha - <module> - Arquivo 05062018135006_PED151367351.htm gravado com sucesso
+2018-09-04 14:22:06,241 - log - INFO - GerarPlanilha - <module> - Arquivo 05062018161109_PED151340448.htm gravado com sucesso
+2018-09-04 14:22:07,507 - log - INFO - GerarPlanilha - <module> - Arquivo 05072018141320_PED152467065.htm gravado com sucesso
+2018-09-04 14:22:08,587 - log - INFO - GerarPlanilha - <module> - Arquivo 05072018204548_PED152522434.htm gravado com sucesso
+2018-09-04 14:22:09,273 - log - INFO - GerarPlanilha - <module> - Arquivo 06062018104853_PED151408425.htm gravado com sucesso
+2018-09-04 14:22:10,124 - log - INFO - GerarPlanilha - <module> - Arquivo 06072018195246_PED152548992.htm gravado com sucesso
+2018-09-04 14:22:10,820 - log - INFO - GerarPlanilha - <module> - Arquivo 07062018090053_PED151423314.htm gravado com sucesso
+2018-09-04 14:22:11,548 - log - INFO - GerarPlanilha - <module> - Arquivo 07062018150438_PED151436080.htm gravado com sucesso
+2018-09-04 14:22:12,266 - log - INFO - GerarPlanilha - <module> - Arquivo 07082018140016_PED153723379.htm gravado com sucesso
+2018-09-04 14:22:12,942 - log - INFO - GerarPlanilha - <module> - Arquivo 08062018115758_PED151541905.htm gravado com sucesso
+2018-09-04 14:22:13,982 - log - INFO - GerarPlanilha - <module> - Arquivo 08062018125244_PED151498331.htm gravado com sucesso
+2018-09-04 14:22:14,728 - log - INFO - GerarPlanilha - <module> - Arquivo 08062018172417_PED151490903.htm gravado com sucesso
+2018-09-04 14:22:15,399 - log - INFO - GerarPlanilha - <module> - Arquivo 08082018160223_PED153790447.htm gravado com sucesso
+2018-09-04 14:22:16,103 - log - INFO - GerarPlanilha - <module> - Arquivo 09072018095659_PED152519513.htm gravado com sucesso
+2018-09-04 14:22:16,783 - log - INFO - GerarPlanilha - <module> - Arquivo 09072018144324_PED152598039.htm gravado com sucesso
+2018-09-04 14:22:17,465 - log - INFO - GerarPlanilha - <module> - Arquivo 09072018164424_PED152588398.htm gravado com sucesso
+2018-09-04 14:22:18,165 - log - INFO - GerarPlanilha - <module> - Arquivo 09072018193107_PED152603774.htm gravado com sucesso
+2018-09-04 14:22:18,880 - log - INFO - GerarPlanilha - <module> - Arquivo 11062018142408_PED151559539.htm gravado com sucesso
+2018-09-04 14:22:19,526 - log - INFO - GerarPlanilha - <module> - Arquivo 11062018180354_PED151532692.htm gravado com sucesso
+2018-09-04 14:22:20,138 - log - INFO - GerarPlanilha - <module> - Arquivo 11062018190549_PED151628738.htm gravado com sucesso
+2018-09-04 14:22:20,815 - log - INFO - GerarPlanilha - <module> - Arquivo 11062018190910_PED151594053.htm gravado com sucesso
+2018-09-04 14:22:21,456 - log - INFO - GerarPlanilha - <module> - Arquivo 11072018195052_PED152721228.htm gravado com sucesso
+2018-09-04 14:22:22,147 - log - INFO - GerarPlanilha - <module> - Arquivo 12062018152207_PED151658528.htm gravado com sucesso
+2018-09-04 14:22:22,839 - log - INFO - GerarPlanilha - <module> - Arquivo 13062018092012_PED151579124.htm gravado com sucesso
+2018-09-04 14:22:23,678 - log - INFO - GerarPlanilha - <module> - Arquivo 14062018105647_PED151752023.htm gravado com sucesso
+2018-09-04 14:22:24,354 - log - INFO - GerarPlanilha - <module> - Arquivo 14062018112457_PED151755395.htm gravado com sucesso
+2018-09-04 14:22:25,032 - log - INFO - GerarPlanilha - <module> - Arquivo 14062018112822_PED151755260.htm gravado com sucesso
+2018-09-04 14:22:25,677 - log - INFO - GerarPlanilha - <module> - Arquivo 14062018212123_PED151773313.htm gravado com sucesso
+2018-09-04 14:22:26,331 - log - INFO - GerarPlanilha - <module> - Arquivo 14082018123513_PED151730722.htm gravado com sucesso
+2018-09-04 14:22:26,982 - log - INFO - GerarPlanilha - <module> - Arquivo 14082018150650_PED154018644.htm gravado com sucesso
+2018-09-04 14:22:27,771 - log - INFO - GerarPlanilha - <module> - Arquivo 15062018112110_PED151766005.htm gravado com sucesso
+2018-09-04 14:22:28,648 - log - INFO - GerarPlanilha - <module> - Arquivo 15062018143748_PED151760065.htm gravado com sucesso
+2018-09-04 14:22:29,293 - log - INFO - GerarPlanilha - <module> - Arquivo 15082018115648_PED152561891.htm gravado com sucesso
+2018-09-04 14:22:29,959 - log - INFO - GerarPlanilha - <module> - Arquivo 16072018103444_PED152794149.htm gravado com sucesso
+2018-09-04 14:22:30,751 - log - INFO - GerarPlanilha - <module> - Arquivo 16072018203235_PED152880344.htm gravado com sucesso
+2018-09-04 14:22:31,484 - log - INFO - GerarPlanilha - <module> - Arquivo 16082018192039_PED154105132.htm gravado com sucesso
+2018-09-04 14:22:32,188 - log - INFO - GerarPlanilha - <module> - Arquivo 17072018103456_PED152914997.htm gravado com sucesso
+2018-09-04 14:22:32,843 - log - INFO - GerarPlanilha - <module> - Arquivo 17072018211426_PED152934986.htm gravado com sucesso
+2018-09-04 14:22:33,530 - log - INFO - GerarPlanilha - <module> - Arquivo 17082018133555_PED154133862.htm gravado com sucesso
+2018-09-04 14:22:34,288 - log - INFO - GerarPlanilha - <module> - Arquivo 18062018194548_PED151854267.htm gravado com sucesso
+2018-09-04 14:22:35,011 - log - INFO - GerarPlanilha - <module> - Arquivo 18062018201457_PED151870357.htm gravado com sucesso
+2018-09-04 14:22:35,814 - log - INFO - GerarPlanilha - <module> - Arquivo 18072018092517_PED152858708.htm gravado com sucesso
+2018-09-04 14:22:36,485 - log - INFO - GerarPlanilha - <module> - Arquivo 18072018101926_PED152859816.htm gravado com sucesso
+2018-09-04 14:22:37,232 - log - INFO - GerarPlanilha - <module> - Arquivo 18072018145241_PED152944445.htm gravado com sucesso
+2018-09-04 14:22:37,866 - log - INFO - GerarPlanilha - <module> - Arquivo 19062018162642_PED151881079.htm gravado com sucesso
+2018-09-04 14:22:38,610 - log - INFO - GerarPlanilha - <module> - Arquivo 20062018090409_PED151871774.htm gravado com sucesso
+2018-09-04 14:22:39,398 - log - INFO - GerarPlanilha - <module> - Arquivo 20072018101646_PED153061155.htm gravado com sucesso
+2018-09-04 14:22:40,075 - log - INFO - GerarPlanilha - <module> - Arquivo 20072018113803_PED153051700.htm gravado com sucesso
+2018-09-04 14:22:40,764 - log - INFO - GerarPlanilha - <module> - Arquivo 20072018120959_PED153032147.htm gravado com sucesso
+2018-09-04 14:22:41,466 - log - INFO - GerarPlanilha - <module> - Arquivo 23062018122224_PED152082861.htm gravado com sucesso
+2018-09-04 14:22:42,122 - log - INFO - GerarPlanilha - <module> - Arquivo 23082018115107_PED153549225.htm gravado com sucesso
+2018-09-04 14:22:42,811 - log - INFO - GerarPlanilha - <module> - Arquivo 23082018141915_PED153131143.htm gravado com sucesso
+2018-09-04 14:22:43,540 - log - INFO - GerarPlanilha - <module> - Arquivo 24062018081821_PED152086283.htm gravado com sucesso
+2018-09-04 14:22:44,419 - log - INFO - GerarPlanilha - <module> - Arquivo 24082018162002_PED154430562.htm gravado com sucesso
+2018-09-04 14:22:45,156 - log - INFO - GerarPlanilha - <module> - Arquivo 25062018120621_PED152065261.htm gravado com sucesso
+2018-09-04 14:22:45,807 - log - INFO - GerarPlanilha - <module> - Arquivo 25072018111723_PED153217618.htm gravado com sucesso
+2018-09-04 14:22:46,419 - log - INFO - GerarPlanilha - <module> - Arquivo 25072018220257_PED153258742.htm gravado com sucesso
+2018-09-04 14:22:47,079 - log - INFO - GerarPlanilha - <module> - Arquivo 26062018121235_PED152167593.htm gravado com sucesso
+2018-09-04 14:22:47,972 - log - INFO - GerarPlanilha - <module> - Arquivo 27062018122250_PED152190125.htm gravado com sucesso
+2018-09-04 14:22:48,724 - log - INFO - GerarPlanilha - <module> - Arquivo 27082018063516_PED153978940.htm gravado com sucesso
+2018-09-04 14:22:49,370 - log - INFO - GerarPlanilha - <module> - Arquivo 27082018145019_PED154481466.htm gravado com sucesso
+2018-09-04 14:22:50,044 - log - INFO - GerarPlanilha - <module> - Arquivo 27082018192011_PED154515188.htm gravado com sucesso
+2018-09-04 14:22:50,770 - log - INFO - GerarPlanilha - <module> - Arquivo 28062018093811_PED151856872.htm gravado com sucesso
+2018-09-04 14:22:51,464 - log - INFO - GerarPlanilha - <module> - Arquivo 28062018174645_PED152220184.htm gravado com sucesso
+2018-09-04 14:22:52,144 - log - INFO - GerarPlanilha - <module> - Arquivo 28062018205526_PED152282146.htm gravado com sucesso
+2018-09-04 14:22:53,036 - log - INFO - GerarPlanilha - <module> - Arquivo 28062018205530_PED152282146.htm gravado com sucesso
+2018-09-04 14:22:53,698 - log - INFO - GerarPlanilha - <module> - Arquivo 29062018092452_PED152292680.htm gravado com sucesso
+2018-09-04 14:22:54,372 - log - INFO - GerarPlanilha - <module> - Arquivo 29062018110613_PED152219299.htm gravado com sucesso
+2018-09-04 14:22:55,105 - log - INFO - GerarPlanilha - <module> - Arquivo 29062018154039_PED152266130.htm gravado com sucesso
+2018-09-04 14:22:55,807 - log - INFO - GerarPlanilha - <module> - Arquivo 30082018144947_PED153549839.htm gravado com sucesso
+2018-09-04 14:22:56,485 - log - INFO - GerarPlanilha - <module> - Arquivo 31082018172623_PED154680416.htm gravado com sucesso
+2018-09-06 12:05:07,947 - log - INFO - GerarPlanilha - <module> - Arquivo 04092018155653_PED154801487.htm gravado com sucesso
+2018-09-06 12:05:08,677 - log - INFO - GerarPlanilha - <module> - Arquivo 05092018063121_PED154855599.htm gravado com sucesso
+2018-09-06 12:05:09,399 - log - INFO - GerarPlanilha - <module> - Arquivo 06092018113710_PED153789019.htm gravado com sucesso
+2018-09-06 14:51:38,811 - log - INFO - GerarPlanilha - <module> - Arquivo 06092018134921_PED154924135.htm gravado com sucesso
+
+
+2018-09-10 08:29:01,024 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-10 08:29:01,125 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-10 08:29:03,240 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-10 10:53:44,880 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-10 10:53:50,620 - log - INFO - LerArquivosXLS - <module> - Arquivo 07092018150917_GRUPO_107.xls gravado com sucesso
+2018-09-10 10:53:53,649 - log - INFO - LerArquivosXLS - <module> - Arquivo 07092018150933_GRUPO_435.xls gravado com sucesso
+2018-09-10 10:53:53,658 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-10 10:53:54,156 - log - INFO - LerArquivosXLS - <module> - Arquivo 07092018151037_GRUPO_700.xls gravado com sucesso
+2018-09-10 10:53:54,696 - log - INFO - LerArquivosXLS - <module> - Arquivo 10092018081541_GRUPO_700.xls gravado com sucesso
+2018-09-10 13:00:05,987 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-10 13:00:06,024 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-10 13:00:09,351 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-11 08:19:28,970 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-11 08:19:29,055 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-11 08:19:30,608 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-11 08:19:31,561 - log - INFO - GerarPlanilha - <module> - Arquivo 10092018130956_PED154915595.htm gravado com sucesso
+2018-09-11 13:00:03,212 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-11 13:00:03,241 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-11 13:00:04,128 - log - INFO - LerArquivosXLS - <module> - Arquivo 11092018091441_GRUPO_700.xls gravado com sucesso
+2018-09-11 13:00:06,181 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-11 13:00:06,912 - log - INFO - GerarPlanilha - <module> - Arquivo 10092018143437_PED154954230.htm gravado com sucesso
+2018-09-12 08:25:21,297 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-12 08:26:55,446 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-12 08:27:05,999 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-12 08:27:06,040 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-12 08:27:07,392 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-12 11:17:10,159 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-12 11:17:10,160 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-12 11:17:10,941 - log - INFO - LerArquivosXLS - <module> - Arquivo 12092018083218_GRUPO_700.xls gravado com sucesso
+2018-09-12 11:17:10,942 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 12092018083218_GRUPO_700.xls
+2018-09-12 13:02:25,519 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-12 13:02:25,602 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-12 13:02:29,078 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-12 13:02:31,354 - log - INFO - GerarPlanilha - <module> - Arquivo 11092018183559_PED155075072.htm gravado com sucesso
+2018-09-12 13:02:32,353 - log - INFO - GerarPlanilha - <module> - Arquivo 11092018191943_PED155044692.htm gravado com sucesso
+2018-09-13 08:29:56,350 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-13 08:29:56,419 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-13 08:29:57,437 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-13 13:00:35,190 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-13 13:00:35,250 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-13 13:00:36,208 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-14 08:12:38,391 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-14 08:12:38,505 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-14 08:12:41,633 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 08:25:36,943 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 08:29:09,644 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 08:30:19,980 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 08:30:55,148 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 08:39:39,927 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-17 08:39:39,981 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-17 08:39:41,400 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 13:02:31,797 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 13:02:32,751 - log - INFO - GerarPlanilha - <module> - Arquivo 14092018122219_PED154152329.htm gravado com sucesso
+2018-09-17 13:04:31,682 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 13:07:52,124 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-17 13:08:10,338 - log - INFO - LerArquivosXLS - <module> - Arquivo 14092018092959_GRUPO_107.xls gravado com sucesso
+2018-09-17 13:08:19,190 - log - INFO - LerArquivosXLS - <module> - Arquivo 14092018093002_GRUPO_435.xls gravado com sucesso
+2018-09-17 13:08:19,208 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-17 13:08:19,705 - log - INFO - LerArquivosXLS - <module> - Arquivo 13092018094840_GRUPO_700.xls gravado com sucesso
+2018-09-17 13:08:19,705 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 13092018094840_GRUPO_700.xls
+2018-09-17 13:08:20,371 - log - INFO - LerArquivosXLS - <module> - Arquivo 14092018093142_GRUPO_700.xls gravado com sucesso
+2018-09-17 13:08:20,372 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 14092018093142_GRUPO_700.xls
+2018-09-17 13:08:21,215 - log - INFO - LerArquivosXLS - <module> - Arquivo 17092018083644_GRUPO_700.xls gravado com sucesso
+2018-09-17 13:08:21,215 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 17092018083644_GRUPO_700.xls
+2018-09-17 13:08:22,499 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-18 07:13:44,297 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-18 07:13:44,354 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-18 07:13:45,595 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-18 13:00:49,606 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-18 13:00:49,686 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-18 13:00:51,026 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-18 17:56:58,430 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-18 17:58:11,273 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-19 08:45:06,701 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-19 08:45:06,780 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-19 08:45:08,201 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-19 13:01:10,943 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-19 13:01:11,037 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-19 13:01:16,149 - log - INFO - LerArquivosXLS - <module> - Arquivo 18092018100052_GRUPO_700.xls gravado com sucesso
+2018-09-19 13:01:16,149 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 18092018100052_GRUPO_700.xls
+2018-09-19 13:01:16,804 - log - INFO - LerArquivosXLS - <module> - Arquivo 19092018085359_GRUPO_700.xls gravado com sucesso
+2018-09-19 13:01:16,804 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 19092018085359_GRUPO_700.xls
+2018-09-19 13:01:18,910 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-19 13:01:23,489 - log - INFO - GerarPlanilha - <module> - Arquivo 17092018154917_PED151290417.htm gravado com sucesso
+2018-09-19 13:01:24,091 - log - INFO - GerarPlanilha - <module> - Arquivo 18092018113231_PED155125509.htm gravado com sucesso
+2018-09-19 13:01:24,971 - log - INFO - GerarPlanilha - <module> - Arquivo 18092018113819_PED155278049.htm gravado com sucesso
+2018-09-19 13:01:25,858 - log - INFO - GerarPlanilha - <module> - Arquivo 18092018114510_PED155270939.htm gravado com sucesso
+2018-09-19 13:01:26,475 - log - INFO - GerarPlanilha - <module> - Arquivo 18092018170334_PED155262343.htm gravado com sucesso
+2018-09-19 13:01:27,366 - log - INFO - GerarPlanilha - <module> - Arquivo 19092018031218_PED155354791.htm gravado com sucesso
+2018-09-20 08:27:25,097 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-20 08:27:25,158 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-20 08:27:25,877 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-20 13:00:38,767 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-20 13:00:38,828 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-20 13:00:39,793 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-21 11:41:39,214 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-21 11:41:39,245 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-21 11:41:40,730 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-21 13:00:42,504 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-21 13:00:42,558 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-21 13:00:43,962 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-24 08:30:59,547 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-24 08:30:59,786 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-24 08:31:00,904 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-24 13:00:41,518 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-24 13:00:41,562 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-24 13:00:42,548 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-25 08:21:34,905 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-25 08:21:35,036 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-25 08:21:36,769 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-25 16:08:09,015 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-25 16:08:09,047 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-25 16:08:10,179 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 08:26:07,260 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 08:26:07,373 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 08:26:08,648 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 09:36:38,060 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 09:36:38,091 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 09:36:38,994 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 10:52:34,909 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 10:52:34,925 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 10:52:35,727 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 10:53:22,900 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 10:53:22,916 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 10:59:10,294 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 10:59:10,294 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 10:59:10,310 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 10:59:10,310 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:02:26,478 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:02:26,478 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:02:26,478 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:03:40,354 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:03:40,354 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:03:40,354 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:03:40,354 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:03:40,367 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:03:40,367 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:03:40,367 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:03:40,367 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:14:38,953 - log - INFO - <ipython-input-7-a5870b0fc9cf> - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:14:38,953 - log - INFO - <ipython-input-7-a5870b0fc9cf> - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:14:38,953 - log - INFO - <ipython-input-7-a5870b0fc9cf> - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:14:38,953 - log - INFO - <ipython-input-7-a5870b0fc9cf> - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:22:08,289 - log - INFO - <ipython-input-11-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:22:08,289 - log - INFO - <ipython-input-11-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:22:08,289 - log - INFO - <ipython-input-11-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:22:08,289 - log - INFO - <ipython-input-11-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:35:41,254 - log - INFO - <ipython-input-12-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:35:41,254 - log - INFO - <ipython-input-12-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:35:41,254 - log - INFO - <ipython-input-12-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:35:41,254 - log - INFO - <ipython-input-12-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:41:20,657 - log - INFO - <ipython-input-13-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:41:20,657 - log - INFO - <ipython-input-13-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:41:20,657 - log - INFO - <ipython-input-13-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:41:20,657 - log - INFO - <ipython-input-13-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:52:15,000 - log - INFO - lerarquivosxls - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:52:27,115 - log - INFO - lerarquivosxls - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 13:00:44,724 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 13:00:44,743 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 13:00:46,871 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 13:00:49,980 - log - INFO - GerarPlanilha - <module> - Arquivo 19092018164600_PED154083549.htm gravado com sucesso
+2018-09-26 13:00:50,678 - log - INFO - GerarPlanilha - <module> - Arquivo 20092018120643_PED155400482.htm gravado com sucesso
+2018-09-26 13:00:51,417 - log - INFO - GerarPlanilha - <module> - Arquivo 20092018121054_PED153710046.htm gravado com sucesso
+2018-09-26 13:00:52,193 - log - INFO - GerarPlanilha - <module> - Arquivo 21092018191010_PED155486706.htm gravado com sucesso
+2018-09-26 13:00:53,073 - log - INFO - GerarPlanilha - <module> - Arquivo 24092018130731_PED154172741.htm gravado com sucesso
+2018-09-26 13:00:53,751 - log - INFO - GerarPlanilha - <module> - Arquivo 25092018090243_PED154402353.htm gravado com sucesso
+2018-09-26 13:00:54,388 - log - INFO - GerarPlanilha - <module> - Arquivo 25092018160219_PED155600345.htm gravado com sucesso
+2018-09-26 13:54:00,696 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 13:54:05,770 - log - INFO - LerArquivosXLS - <module> - Arquivo 21092018100350_GRUPO_107.xls gravado com sucesso
+2018-09-26 13:54:06,473 - log - INFO - LerArquivosXLS - <module> - Arquivo 21092018100352_GRUPO_435.xls gravado com sucesso
+2018-09-26 13:54:06,493 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 13:54:07,131 - log - INFO - LerArquivosXLS - <module> - Arquivo 20092018095939_GRUPO_700.xls gravado com sucesso
+2018-09-26 13:54:21,223 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 21092018100628_GRUPO_700.xls
+2018-09-26 13:54:21,241 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 24092018083507_GRUPO_700.xls
+2018-09-26 13:54:21,257 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 25092018114041_GRUPO_700.xls
+2018-09-26 13:54:21,273 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 26092018082432_GRUPO_700.xls
+2018-09-26 13:54:22,166 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 14:13:33,496 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 14:13:33,526 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 14:13:34,333 - log - INFO - LerArquivosXLS - <module> - Arquivo 21092018100628_GRUPO_700.xls gravado com sucesso
+2018-09-26 14:13:46,945 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 24092018083507_GRUPO_700.xls
+2018-09-26 14:13:46,948 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 25092018114041_GRUPO_700.xls
+2018-09-26 14:13:46,950 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 26092018082432_GRUPO_700.xls
+2018-09-26 14:13:47,835 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 14:28:46,706 - log - INFO - <ipython-input-6-25d415a263cf> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 14:28:47,585 - log - INFO - <ipython-input-6-25d415a263cf> - <module> - Arquivo 24092018083507_GRUPO_700.xls gravado com sucesso
+2018-09-26 14:28:48,391 - log - INFO - <ipython-input-6-25d415a263cf> - <module> - Arquivo 25092018114041_GRUPO_700.xls gravado com sucesso
+2018-09-26 14:28:49,093 - log - INFO - <ipython-input-6-25d415a263cf> - <module> - Arquivo 26092018082432_GRUPO_700.xls gravado com sucesso
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:56:22,910 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 14:20:21,340 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 14:20:52,769 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:12:28,712 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:12:28,765 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:12:37,214 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:15:36,113 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:15:36,151 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:15:42,915 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:30:28,480 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:30:28,526 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:30:35,056 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:37:05,977 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:37:06,014 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:37:12,528 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:38:41,016 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:38:41,036 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:38:47,872 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:49:33,794 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:49:33,823 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:49:43,646 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 16:39:42,119 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 16:39:42,160 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 16:39:51,690 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 16:45:47,822 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 16:45:47,864 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 16:46:03,704 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-09-27 16:46:04,631 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-28 08:25:33,789 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-28 08:25:33,910 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-28 08:25:55,359 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-28 13:00:03,073 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-28 13:00:03,386 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-28 13:00:19,507 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-01 08:32:54,508 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-10-01 08:32:54,624 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-10-01 08:33:12,765 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-01 13:00:02,794 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-10-01 13:00:02,856 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-10-01 13:00:21,542 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-01 14:51:26,003 - log - INFO - <ipython-input-5-8f15351b2998> - LerArqGeral - Não existe arquivos da Energisa para serem gravado
+2018-10-01 14:55:47,934 - log - INFO - <ipython-input-9-170d938c52ca> - LerArqGeral - Não existe arquivos da Energisa para serem gravado
+2018-10-01 15:02:44,107 - log - INFO - <ipython-input-11-3fd7e7dc9934> - LerArqGeral - Não existe arquivos da Energisa para serem gravado
+2018-10-01 15:05:55,767 - log - INFO - <ipython-input-12-27353801807a> - LerArqGeral - Não existe arquivos da Energisa para serem gravado
+2018-10-01 15:07:30,084 - log - INFO - <ipython-input-13-63470f83686f> - LerArqGeral - Não existe arquivos da Energisa para serem gravado
+2018-10-01 15:11:29,271 - log - INFO - <ipython-input-14-1a4c66cd802e> - LerArqGeral - Não existe arquivos da Energisa para serem gravado
+2018-10-01 15:12:12,459 - log - INFO - <ipython-input-15-d7e143a0a240> - LerArqGeral - Não existe arquivos da Energisa para serem gravado
+2018-10-01 16:52:11,582 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 03082018091636_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:52:13,383 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 03082018091649_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:52:14,609 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 06072018084538_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:52:15,541 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 06072018084600_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:52:20,338 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 07092018150917_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:52:23,244 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 07092018150933_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:52:25,014 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 10082018085655_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:52:27,693 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 10082018085710_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:52:29,796 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 13072018085819_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:52:31,336 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 13072018085826_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:52:35,844 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 14092018092959_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:52:37,897 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 14092018093002_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:52:39,217 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018085800_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:52:41,454 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018085809_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:52:43,098 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018135356_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:52:46,027 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018135411_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:52:50,780 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 21092018100350_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:52:51,654 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 21092018100352_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:52:53,865 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 24082018083211_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:52:55,204 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 24082018083221_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:52:56,594 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 27072018084146_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:52:58,138 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 27072018084151_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:52:59,490 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 29062018083444_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 16:53:02,536 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 31082018105229_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 16:53:05,235 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 31082018105246_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:12,423 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 03082018091636_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:13,348 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 03082018091649_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:13,771 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 06072018084538_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:14,381 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 06072018084600_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:15,864 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 07092018150917_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:16,614 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 07092018150933_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:17,047 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 10082018085655_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:17,879 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 10082018085710_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:18,355 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 13072018085819_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:19,086 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 13072018085826_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:20,002 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 14092018092959_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:20,688 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 14092018093002_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:21,109 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018085800_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:21,700 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018085809_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:22,489 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018135356_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:23,087 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018135411_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:24,017 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 21092018100350_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:24,468 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 21092018100352_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:25,057 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 24082018083211_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:25,485 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 24082018083221_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:25,889 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 27072018084146_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:26,344 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 27072018084151_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:26,781 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 29062018083444_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:03:27,384 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 31082018105229_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:03:27,933 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 31082018105246_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:34,086 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 03082018091636_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:34,732 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 03082018091649_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:35,455 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 06072018084538_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:36,447 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 06072018084600_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:37,571 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 07092018150917_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:38,150 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 07092018150933_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:39,251 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 10082018085655_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:40,175 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 10082018085710_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:40,980 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 13072018085819_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:41,489 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 13072018085826_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:42,766 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 14092018092959_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:43,594 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 14092018093002_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:44,110 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018085800_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:44,649 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018085809_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:45,111 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018135356_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:45,619 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 20072018135411_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:46,302 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 21092018100350_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:46,734 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 21092018100352_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:47,273 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 24082018083211_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:47,688 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 24082018083221_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:48,124 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 27072018084146_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:48,843 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 27072018084151_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:49,576 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 29062018083444_GRUPO_435.xls.csv gravado com sucesso
+2018-10-01 17:06:50,885 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 31082018105229_GRUPO_107.xls.csv gravado com sucesso
+2018-10-01 17:06:51,608 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 31082018105246_GRUPO_435.xls.csv gravado com sucesso
+2018-10-02 08:31:25,512 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-10-02 08:31:25,606 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-10-02 08:31:27,044 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-02 10:00:21,303 - log - INFO - <ipython-input-2-d5d7b27b632c> - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-02 13:00:02,772 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-10-02 13:00:02,812 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-10-02 13:00:04,368 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-03 08:35:26,203 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-10-03 08:35:26,294 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-10-03 08:35:28,014 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-03 13:00:02,936 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-10-03 13:00:03,022 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-10-03 13:00:04,535 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-04 14:14:46,348 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-10-04 14:14:46,417 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-10-04 14:14:47,793 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-05 08:31:16,939 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-10-05 08:31:17,029 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-10-05 08:31:18,675 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-05 08:33:45,258 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-05 11:38:09,306 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 01102018084028_GRUPO_524.xls
+2018-10-05 11:38:09,628 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 02102018095657_GRUPO_524.xls
+2018-10-05 11:38:09,876 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 03102018084145_GRUPO_524.xls
+2018-10-05 11:38:10,093 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 04102018093755_GRUPO_524.xls
+2018-10-05 11:38:10,277 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018085147_GRUPO_524.xls
+2018-10-05 11:38:10,462 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 27092018094740_GRUPO_524.xls
+2018-10-05 11:38:10,794 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018091201_GRUPO_524.xls
+2018-10-05 11:41:41,200 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 01102018084028_GRUPO_524.xls
+2018-10-05 11:41:41,331 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 02102018095657_GRUPO_524.xls
+2018-10-05 11:41:41,463 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 03102018084145_GRUPO_524.xls
+2018-10-05 11:41:41,616 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 04102018093755_GRUPO_524.xls
+2018-10-05 11:41:41,779 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018085147_GRUPO_524.xls
+2018-10-05 11:41:41,864 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 27092018094740_GRUPO_524.xls
+2018-10-05 11:41:42,033 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018091201_GRUPO_524.xls
+2018-10-05 13:00:03,743 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 01102018083307_GRUPO_700.xls
+2018-10-05 13:00:03,864 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 02102018095351_GRUPO_700.xls
+2018-10-05 13:00:03,933 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 03102018083952_GRUPO_700.xls
+2018-10-05 13:00:04,052 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 04102018093546_GRUPO_700.xls
+2018-10-05 13:00:04,181 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018084905_GRUPO_700.xls
+2018-10-05 13:00:04,595 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 27092018094453_GRUPO_700.xls
+2018-10-05 13:00:05,090 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018090829_GRUPO_700.xls
+2018-10-05 13:00:21,099 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018084618_GRUPO_107.xls
+2018-10-05 13:00:21,513 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018084621_GRUPO_435.xls
+2018-10-05 13:00:21,756 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018090536_GRUPO_435.xls
+2018-10-05 13:00:23,839 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018090537_GRUPO_107.xls
+2018-10-05 13:00:40,709 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-05 13:00:41,352 - log - INFO - GerarPlanilha - <module> - Arquivo 01102018102846_PED155754065.htm gravado com sucesso
+2018-10-05 13:00:41,953 - log - INFO - GerarPlanilha - <module> - Arquivo 02102018062138_PED154391396.htm gravado com sucesso
+2018-10-05 13:00:42,549 - log - INFO - GerarPlanilha - <module> - Arquivo 02102018110018_PED155798071.htm gravado com sucesso
+2018-10-05 13:00:43,254 - log - INFO - GerarPlanilha - <module> - Arquivo 02102018155806_PED155880257.htm gravado com sucesso
+2018-10-05 13:00:43,898 - log - INFO - GerarPlanilha - <module> - Arquivo 03102018172908_PED155880459.htm gravado com sucesso
+2018-10-05 13:00:44,552 - log - INFO - GerarPlanilha - <module> - Arquivo 04102018170147_PED155937401.htm gravado com sucesso
+2018-10-05 13:00:45,207 - log - INFO - GerarPlanilha - <module> - Arquivo 27092018142331_PED155719545.htm gravado com sucesso
+2018-10-05 13:00:46,158 - log - INFO - GerarPlanilha - <module> - Arquivo 27092018160547_PED155705535.htm gravado com sucesso
+2018-10-05 13:00:46,786 - log - INFO - GerarPlanilha - <module> - Arquivo 28092018141554_PED155737944.htm gravado com sucesso
+2018-10-05 13:00:47,412 - log - INFO - GerarPlanilha - <module> - Arquivo 29092018090013_PED155706981.htm gravado com sucesso
+2018-10-05 13:00:48,009 - log - INFO - GerarPlanilha - <module> - Arquivo 29092018101352_PED155785518.htm gravado com sucesso
+2018-10-05 13:06:23,810 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 01102018084028_GRUPO_524.xls
+2018-10-05 13:06:24,165 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 02102018095657_GRUPO_524.xls
+2018-10-05 13:06:24,311 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 03102018084145_GRUPO_524.xls
+2018-10-05 13:06:24,523 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 04102018093755_GRUPO_524.xls
+2018-10-05 13:06:24,712 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018085147_GRUPO_524.xls
+2018-10-05 13:06:24,851 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 27092018094740_GRUPO_524.xls
+2018-10-05 13:06:25,198 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018091201_GRUPO_524.xls
+2018-10-05 13:23:52,864 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 01102018084028_GRUPO_524.xls
+2018-10-05 13:23:53,123 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 02102018095657_GRUPO_524.xls
+2018-10-05 13:23:53,277 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 03102018084145_GRUPO_524.xls
+2018-10-05 13:23:53,480 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 04102018093755_GRUPO_524.xls
+2018-10-05 13:23:53,617 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018085147_GRUPO_524.xls
+2018-10-05 13:23:53,721 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 27092018094740_GRUPO_524.xls
+2018-10-05 13:23:53,885 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018091201_GRUPO_524.xls
+2018-10-05 13:37:08,848 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 01102018084028_GRUPO_524.xls
+2018-10-05 13:37:09,081 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 02102018095657_GRUPO_524.xls
+2018-10-05 13:37:09,301 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 03102018084145_GRUPO_524.xls
+2018-10-05 13:37:10,157 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 04102018093755_GRUPO_524.xls
+2018-10-05 13:37:10,827 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018085147_GRUPO_524.xls
+2018-10-05 13:37:10,942 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 27092018094740_GRUPO_524.xls
+2018-10-05 13:37:11,191 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018091201_GRUPO_524.xls
+2018-10-05 13:50:05,482 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 01102018084028_GRUPO_524.xls
+2018-10-05 13:50:05,673 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 02102018095657_GRUPO_524.xls
+2018-10-05 13:50:05,843 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 03102018084145_GRUPO_524.xls
+2018-10-05 13:50:06,003 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 04102018093755_GRUPO_524.xls
+2018-10-05 13:50:06,158 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018085147_GRUPO_524.xls
+2018-10-05 13:50:06,288 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 27092018094740_GRUPO_524.xls
+2018-10-05 13:50:06,530 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018091201_GRUPO_524.xls
+2018-10-05 14:03:49,035 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 01102018084028_GRUPO_524.xls
+2018-10-05 14:03:49,205 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 02102018095657_GRUPO_524.xls
+2018-10-05 14:03:49,329 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 03102018084145_GRUPO_524.xls
+2018-10-05 14:03:49,490 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 04102018093755_GRUPO_524.xls
+2018-10-05 14:03:49,631 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018085147_GRUPO_524.xls
+2018-10-05 14:03:49,744 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 27092018094740_GRUPO_524.xls
+2018-10-05 14:03:49,931 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018091201_GRUPO_524.xls
+2018-10-05 14:06:04,199 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 01102018084028_GRUPO_524.xls
+2018-10-05 14:06:04,420 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 02102018095657_GRUPO_524.xls
+2018-10-05 14:06:04,567 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 03102018084145_GRUPO_524.xls
+2018-10-05 14:06:04,769 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 04102018093755_GRUPO_524.xls
+2018-10-05 14:06:04,936 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018085147_GRUPO_524.xls
+2018-10-05 14:06:05,047 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 27092018094740_GRUPO_524.xls
+2018-10-05 14:06:05,236 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018091201_GRUPO_524.xls
+2018-10-05 14:07:16,366 - log - INFO - <ipython-input-18-b783ce28f08a> - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:07:17,463 - log - INFO - <ipython-input-18-b783ce28f08a> - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:07:18,326 - log - INFO - <ipython-input-18-b783ce28f08a> - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:07:19,133 - log - INFO - <ipython-input-18-b783ce28f08a> - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:07:19,936 - log - INFO - <ipython-input-18-b783ce28f08a> - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:07:20,532 - log - INFO - <ipython-input-18-b783ce28f08a> - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:07:21,517 - log - INFO - <ipython-input-18-b783ce28f08a> - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:11:20,654 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 01102018084028_GRUPO_524.xls
+2018-10-05 14:11:20,860 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 02102018095657_GRUPO_524.xls
+2018-10-05 14:11:21,040 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 03102018084145_GRUPO_524.xls
+2018-10-05 14:11:21,225 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 04102018093755_GRUPO_524.xls
+2018-10-05 14:11:21,396 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 05102018085147_GRUPO_524.xls
+2018-10-05 14:11:21,505 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 27092018094740_GRUPO_524.xls
+2018-10-05 14:11:21,663 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo 28092018091201_GRUPO_524.xls
+2018-10-05 14:13:11,391 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:13:12,504 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:13:13,364 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:13:14,324 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:13:15,101 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:13:15,686 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:13:16,614 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-05 14:53:13,865 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 01102018083307_GRUPO_700.xls gravado com sucesso
+2018-10-05 14:53:14,569 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 02102018095351_GRUPO_700.xls gravado com sucesso
+2018-10-05 14:53:15,243 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 03102018083952_GRUPO_700.xls gravado com sucesso
+2018-10-05 14:53:16,013 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 04102018093546_GRUPO_700.xls gravado com sucesso
+2018-10-05 14:53:16,726 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 05102018084905_GRUPO_700.xls gravado com sucesso
+2018-10-05 14:53:17,893 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 27092018094453_GRUPO_700.xls gravado com sucesso
+2018-10-05 14:53:18,649 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 28092018090829_GRUPO_700.xls gravado com sucesso
+2018-10-05 14:53:30,575 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-10-05 14:53:36,374 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 05102018084618_GRUPO_107.xls gravado com sucesso
+2018-10-05 14:53:38,100 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 05102018084621_GRUPO_435.xls gravado com sucesso
+2018-10-05 14:53:39,095 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 28092018090536_GRUPO_435.xls gravado com sucesso
+2018-10-05 14:53:47,538 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 28092018090537_GRUPO_107.xls gravado com sucesso
+2018-10-05 15:06:42,021 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-10-05 15:12:49,594 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-10-05 15:27:21,268 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-10-08 08:33:37,409 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo Anexo_Senha.xls
+2018-10-08 08:33:58,967 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo Anexo_Senha.xls
+2018-10-08 08:34:33,624 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo Anexo_Senha.xls
+2018-10-08 08:34:42,644 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-08 08:50:23,330 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo Anexo_Senha.xls
+2018-10-08 08:50:38,432 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-08 08:50:42,225 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo Anexo_Senha.xls
+2018-10-08 08:51:17,490 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-08 08:51:17,806 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo Anexo_Senha.xls
+2018-10-08 08:51:24,837 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-08 09:00:06,513 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo Anexo_Senha.xls
+2018-10-08 09:00:20,661 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-08 09:01:47,001 - log - ERROR - Gestao_de_Senhas - LerArqGeral - Erro ao gravar o arquivo Anexo_Senha.xls
+2018-10-08 09:08:13,355 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-08 09:11:52,990 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-08 09:13:39,269 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-08 09:18:33,582 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-08 09:19:15,665 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-08 09:19:20,402 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-08 09:19:21,889 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-08 09:19:30,017 - log - INFO - GerarPlanilha - <module> - Arquivo 05102018191619_PED156042503.htm gravado com sucesso
+2018-10-08 13:00:11,256 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 08102018092519_GRUPO_700.xls gravado com sucesso
+2018-10-08 13:00:33,437 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-08 13:01:20,494 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-08 13:01:27,075 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-08 13:01:28,693 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-08 13:01:29,794 - log - INFO - GerarPlanilha - <module> - Arquivo 08102018102836_PED156055869.htm gravado com sucesso
+2018-10-08 13:01:30,873 - log - INFO - GerarPlanilha - <module> - Arquivo 08102018104310_PED155224148.htm gravado com sucesso
+2018-10-08 13:01:31,921 - log - INFO - GerarPlanilha - <module> - Arquivo 08102018124626_PED155645601.htm gravado com sucesso
+2018-10-08 14:09:39,353 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:09:39,972 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:09:40,296 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:09:40,804 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:09:41,219 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:09:41,342 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:09:41,992 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:12:08,518 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:12:09,146 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:12:09,468 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:12:10,003 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:12:10,447 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:12:10,570 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:12:11,114 - log - INFO - <ipython-input-4-232cff520f72> - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:15:05,909 - log - INFO - <ipython-input-12-232cff520f72> - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:15:06,486 - log - INFO - <ipython-input-12-232cff520f72> - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:15:06,840 - log - INFO - <ipython-input-12-232cff520f72> - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:15:07,294 - log - INFO - <ipython-input-12-232cff520f72> - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:15:07,652 - log - INFO - <ipython-input-12-232cff520f72> - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:15:07,773 - log - INFO - <ipython-input-12-232cff520f72> - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:15:08,297 - log - INFO - <ipython-input-12-232cff520f72> - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:17:39,000 - log - INFO - <ipython-input-15-36eb71f76f0a> - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:17:39,675 - log - INFO - <ipython-input-15-36eb71f76f0a> - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:17:39,995 - log - INFO - <ipython-input-15-36eb71f76f0a> - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:17:40,573 - log - INFO - <ipython-input-15-36eb71f76f0a> - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:17:40,940 - log - INFO - <ipython-input-15-36eb71f76f0a> - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:17:41,059 - log - INFO - <ipython-input-15-36eb71f76f0a> - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:17:41,613 - log - INFO - <ipython-input-15-36eb71f76f0a> - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:20:06,551 - log - INFO - <ipython-input-19-137034b8d70f> - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:20:07,331 - log - INFO - <ipython-input-19-137034b8d70f> - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:20:07,711 - log - INFO - <ipython-input-19-137034b8d70f> - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:20:08,149 - log - INFO - <ipython-input-19-137034b8d70f> - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:20:08,494 - log - INFO - <ipython-input-19-137034b8d70f> - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:20:08,619 - log - INFO - <ipython-input-19-137034b8d70f> - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:20:09,257 - log - INFO - <ipython-input-19-137034b8d70f> - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:22:43,400 - log - INFO - <ipython-input-23-2e7fe8fb37f9> - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:22:44,019 - log - INFO - <ipython-input-23-2e7fe8fb37f9> - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:22:44,335 - log - INFO - <ipython-input-23-2e7fe8fb37f9> - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:22:44,800 - log - INFO - <ipython-input-23-2e7fe8fb37f9> - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:22:45,273 - log - INFO - <ipython-input-23-2e7fe8fb37f9> - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:22:45,389 - log - INFO - <ipython-input-23-2e7fe8fb37f9> - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:22:45,914 - log - INFO - <ipython-input-23-2e7fe8fb37f9> - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:24:43,433 - log - INFO - <ipython-input-26-ce925dc661bc> - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:24:44,025 - log - INFO - <ipython-input-26-ce925dc661bc> - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:24:44,560 - log - INFO - <ipython-input-26-ce925dc661bc> - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:24:44,979 - log - INFO - <ipython-input-26-ce925dc661bc> - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:24:45,345 - log - INFO - <ipython-input-26-ce925dc661bc> - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:24:45,458 - log - INFO - <ipython-input-26-ce925dc661bc> - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:24:45,971 - log - INFO - <ipython-input-26-ce925dc661bc> - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:10,197 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:10,264 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:10,304 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:10,353 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:10,399 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:10,419 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:10,484 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:28,082 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:28,162 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:28,202 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:28,250 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:28,290 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:28,313 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:37:28,372 - log - INFO - <ipython-input-36-0eae6013f5d3> - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:40:48,036 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 01102018084028_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:40:49,673 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 02102018095657_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:40:50,747 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 03102018084145_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:40:51,835 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 04102018093755_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:40:52,571 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 05102018085147_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:40:53,239 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 27092018094740_GRUPO_524.xls gravado com sucesso
+2018-10-08 14:40:53,983 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 28092018091201_GRUPO_524.xls gravado com sucesso
+2018-10-09 08:35:02,255 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-09 08:34:40,093 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-09 08:34:42,343 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-09 08:43:38,940 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-09 08:44:06,642 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-09 08:44:11,329 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-09 08:44:12,174 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-09 13:00:04,587 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 09102018105607_GRUPO_700.xls gravado com sucesso
+2018-10-09 13:00:23,971 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-10-09 13:00:23,971 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado com anexo de procedimento
+2018-10-09 13:00:53,552 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-09 13:00:58,696 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-09 13:00:59,667 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-09 13:01:00,400 - log - INFO - GerarPlanilha - <module> - Arquivo 09102018062307_PED154019986.htm gravado com sucesso
+2018-10-09 13:01:01,085 - log - INFO - GerarPlanilha - <module> - Arquivo 09102018115547_PED156140061.htm gravado com sucesso
+2018-10-10 08:24:53,842 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-10 08:25:31,962 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-10 08:25:37,672 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-10 08:25:38,887 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-10 13:00:06,018 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 10102018083006_GRUPO_700.xls gravado com sucesso
+2018-10-10 13:00:24,361 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-10 13:01:03,377 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-10 13:01:09,971 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-10 13:01:11,649 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-11 15:00:10,058 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 11102018091133_GRUPO_700.xls gravado com sucesso
+2018-10-11 15:00:27,648 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-10-11 15:00:27,648 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado com anexo de procedimento
+2018-10-11 15:01:10,041 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-11 15:01:17,343 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-11 15:01:18,754 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-16 09:11:56,555 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-16 09:12:59,988 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-16 09:13:11,098 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-16 09:13:13,324 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-16 13:00:05,797 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 15102018092121_GRUPO_700.xls gravado com sucesso
+2018-10-16 13:00:06,351 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 15102018092911_GRUPO_700.xls gravado com sucesso
+2018-10-16 13:00:07,252 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 16102018092759_GRUPO_700.xls gravado com sucesso
+2018-10-16 13:00:26,007 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-16 13:00:30,351 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 15102018092343_GRUPO_107.xls gravado com sucesso
+2018-10-16 13:00:30,937 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 15102018092353_GRUPO_435.xls gravado com sucesso
+2018-10-16 13:01:05,799 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-16 13:01:15,394 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-16 13:01:16,613 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-16 13:01:17,362 - log - INFO - GerarPlanilha - <module> - Arquivo 16102018115330_PED156321666.htm gravado com sucesso
+2018-10-16 17:43:47,814 - log - INFO - <ipython-input-2-0eae6013f5d3> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-16 17:45:07,376 - log - INFO - <ipython-input-7-2a7c1675fcbb> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-16 17:47:01,370 - log - INFO - <ipython-input-10-028006901d50> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-16 17:47:24,568 - log - INFO - <ipython-input-13-053ac8fe4dd9> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-16 17:51:45,904 - log - INFO - <ipython-input-16-028006901d50> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-16 17:53:45,678 - log - ERROR - <ipython-input-19-a907d0b5e7f0> - LerArqGeral - Erro ao gravar o arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm
+2018-10-16 17:54:29,917 - log - INFO - <ipython-input-21-af56a3c57cdd> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-16 17:54:50,949 - log - INFO - <ipython-input-24-cd4f02f7563c> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-17 08:23:21,751 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-17 08:23:59,573 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-17 08:24:01,012 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 08102018093312_GRUPO_524.xls gravado com sucesso
+2018-10-17 08:24:01,498 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 09102018105917_GRUPO_524.xls gravado com sucesso
+2018-10-17 08:24:01,915 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 10102018083216_GRUPO_524.xls gravado com sucesso
+2018-10-17 08:24:02,347 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 15102018093321_GRUPO_524.xls gravado com sucesso
+2018-10-17 08:24:02,763 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 15102018093343_GRUPO_524.xls gravado com sucesso
+2018-10-17 08:24:03,202 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 16102018092852_GRUPO_524.xls gravado com sucesso
+2018-10-17 08:24:09,464 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-17 08:24:10,567 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-17 11:43:46,394 - log - INFO - <ipython-input-2-cd4f02f7563c> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-17 11:46:18,898 - log - INFO - <ipython-input-5-5aa6c5c8437c> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-17 11:47:51,042 - log - INFO - <ipython-input-8-af56a3c57cdd> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-17 11:48:03,125 - log - INFO - <ipython-input-8-af56a3c57cdd> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-17 11:48:28,384 - log - INFO - <ipython-input-12-cd4f02f7563c> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-17 12:07:38,943 - log - INFO - <ipython-input-31-cd4f02f7563c> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-17 13:00:24,320 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-17 13:01:19,131 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-17 13:01:25,656 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-17 13:01:26,883 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-18 08:44:08,879 - log - INFO - <ipython-input-2-cd4f02f7563c> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-18 08:45:13,174 - log - INFO - <ipython-input-2-cd4f02f7563c> - LerArqGeral - Arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm gravado com sucesso
+2018-10-18 10:02:16,427 - log - ERROR - <ipython-input-55-b0a06519ca81> - LerArqGeral - Erro ao gravar o arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm
+2018-10-18 10:02:16,478 - log - ERROR - <ipython-input-55-b0a06519ca81> - LerArqGeral - Erro ao gravar o arquivo teste.html
+2018-10-18 10:03:02,958 - log - ERROR - <ipython-input-58-b0a06519ca81> - LerArqGeral - Erro ao gravar o arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm
+2018-10-18 10:03:03,011 - log - ERROR - <ipython-input-58-b0a06519ca81> - LerArqGeral - Erro ao gravar o arquivo teste.html
+2018-10-18 10:12:30,852 - log - ERROR - <ipython-input-61-b0a06519ca81> - LerArqGeral - Erro ao gravar o arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm
+2018-10-18 10:12:30,951 - log - ERROR - <ipython-input-61-b0a06519ca81> - LerArqGeral - Erro ao gravar o arquivo teste.html
+2018-10-18 10:25:04,058 - log - ERROR - <ipython-input-64-b0a06519ca81> - LerArqGeral - Erro ao gravar o arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm
+2018-10-18 10:25:04,112 - log - ERROR - <ipython-input-64-b0a06519ca81> - LerArqGeral - Erro ao gravar o arquivo teste.html
+2018-10-18 10:33:29,387 - log - ERROR - <ipython-input-67-73aabaab382c> - LerArqGeral - Erro ao gravar o arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm
+2018-10-18 10:33:29,433 - log - ERROR - <ipython-input-67-73aabaab382c> - LerArqGeral - Erro ao gravar o arquivo teste.html
+2018-10-18 10:56:43,154 - log - ERROR - <ipython-input-69-c9321a3c917b> - LerArqGeral - Erro ao gravar o arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm
+2018-10-18 10:56:43,206 - log - ERROR - <ipython-input-69-c9321a3c917b> - LerArqGeral - Erro ao gravar o arquivo teste.html
+2018-10-18 10:59:30,692 - log - ERROR - <ipython-input-69-c9321a3c917b> - LerArqGeral - Erro ao gravar o arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm
+2018-10-18 11:23:01,311 - log - ERROR - <ipython-input-69-c9321a3c917b> - LerArqGeral - Erro ao gravar o arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm
+2018-10-18 11:23:01,368 - log - ERROR - <ipython-input-69-c9321a3c917b> - LerArqGeral - Erro ao gravar o arquivo teste.html
+2018-10-18 11:23:30,057 - log - ERROR - <ipython-input-69-c9321a3c917b> - LerArqGeral - Erro ao gravar o arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm
+2018-10-18 11:23:30,228 - log - ERROR - <ipython-input-69-c9321a3c917b> - LerArqGeral - Erro ao gravar o arquivo teste.html
+2018-10-18 11:30:11,487 - log - ERROR - <ipython-input-69-c9321a3c917b> - LerArqGeral - Erro ao gravar o arquivo ENC VALIDACAO - PAULA MARIA HORACIO.htm
+2018-10-18 11:30:11,527 - log - ERROR - <ipython-input-69-c9321a3c917b> - LerArqGeral - Erro ao gravar o arquivo teste.html
+2018-10-18 15:03:41,848 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 17102018083008_GRUPO_700.xls gravado com sucesso
+2018-10-18 15:03:42,989 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 18102018094803_GRUPO_700.xls gravado com sucesso
+2018-10-18 15:04:11,132 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-18 15:05:01,516 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-18 15:05:02,616 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 17102018083129_GRUPO_524.xls gravado com sucesso
+2018-10-18 15:05:03,263 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 18102018095007_GRUPO_524.xls gravado com sucesso
+2018-10-18 15:05:12,163 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-10-18 15:05:12,163 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado com anexo de procedimento
+2018-10-18 15:05:13,181 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-18 15:05:14,080 - log - INFO - GerarPlanilha - <module> - Arquivo 18102018105002_PED156415991.htm gravado com sucesso
+2018-10-19 08:32:36,494 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-19 08:34:59,044 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-19 08:35:12,091 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-19 08:35:13,791 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-19 13:02:25,149 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-19 13:07:28,420 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-19 13:07:43,308 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-19 13:07:44,700 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-19 17:28:37,632 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-19 17:29:30,235 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-19 17:29:38,527 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-19 17:29:40,304 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-22 08:25:54,561 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-22 11:45:00,722 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19102018092715_GRUPO_700.xls gravado com sucesso
+2018-10-22 11:45:02,884 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 22102018070102_GRUPO_700.xls gravado com sucesso
+2018-10-22 11:45:38,691 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-22 11:46:32,444 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-22 11:46:34,666 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19102018092935_GRUPO_524.xls gravado com sucesso
+2018-10-22 11:46:36,075 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 22102018065444_GRUPO_524.xls gravado com sucesso
+2018-10-22 11:46:46,014 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-22 11:46:47,664 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-22 11:46:48,931 - log - INFO - GerarPlanilha - <module> - Arquivo 19102018201014_PED156544504.htm gravado com sucesso
+2018-10-22 11:46:50,197 - log - INFO - GerarPlanilha - <module> - Arquivo 20102018190315_PED156556241.htm gravado com sucesso
+2018-10-22 11:46:51,682 - log - INFO - GerarPlanilha - <module> - Arquivo 21102018103640_PED155829564.htm gravado com sucesso
+2018-10-22 11:46:52,585 - log - INFO - GerarPlanilha - <module> - Arquivo 21102018195004_PED154519543.htm gravado com sucesso
+2018-10-22 13:00:54,157 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-22 13:01:51,583 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-22 13:02:00,399 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-22 13:02:02,568 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-23 08:28:38,686 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-23 11:37:37,601 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-23 11:39:12,538 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-23 11:39:17,447 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-23 11:39:17,996 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-23 13:00:28,091 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-23 13:00:57,388 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-23 13:01:06,142 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-23 13:01:07,626 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-24 08:36:59,453 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-24 08:37:25,494 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-24 08:37:34,234 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-24 08:37:35,419 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-24 13:00:31,789 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-24 13:01:04,444 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-24 13:01:12,750 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-24 13:01:13,841 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-25 08:38:12,551 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-25 08:38:51,033 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-25 08:39:00,629 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-25 08:39:02,282 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-25 13:01:23,522 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-25 13:03:16,437 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-25 13:03:47,884 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-25 13:04:01,166 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-26 08:29:20,001 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-26 08:29:59,552 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-26 08:30:05,520 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-26 08:30:06,449 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-26 13:00:24,049 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-26 13:00:50,286 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-26 13:00:57,681 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-26 13:00:58,738 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-29 08:33:30,185 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-29 08:34:19,795 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-29 08:34:30,665 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-29 08:34:32,753 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-29 13:00:25,728 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-29 13:00:29,870 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19102018092648_GRUPO_107.xls gravado com sucesso
+2018-10-29 13:00:57,001 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-29 13:01:05,256 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-29 13:01:06,359 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-29 13:01:07,077 - log - INFO - GerarPlanilha - <module> - Arquivo 18102018201523_PED156501625.htm gravado com sucesso
+2018-10-29 13:01:07,918 - log - INFO - GerarPlanilha - <module> - Arquivo 22102018102502_PED156567512.htm gravado com sucesso
+2018-10-30 08:26:51,987 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 23102018080516_GRUPO_700.xls gravado com sucesso
+2018-10-30 08:26:52,588 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 24102018081412_GRUPO_700.xls gravado com sucesso
+2018-10-30 08:26:53,659 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 25102018120351_GRUPO_700.xls gravado com sucesso
+2018-10-30 08:26:54,430 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 29102018085244_GRUPO_700.xls gravado com sucesso
+2018-10-30 08:27:14,375 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-30 08:27:17,014 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19102018092641_GRUPO_435.xls gravado com sucesso
+2018-10-30 08:27:38,009 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-30 08:27:38,918 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 23102018080613_GRUPO_524.xls gravado com sucesso
+2018-10-30 08:27:39,550 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 24102018081542_GRUPO_524.xls gravado com sucesso
+2018-10-30 08:27:39,962 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 25102018120659_GRUPO_524.xls gravado com sucesso
+2018-10-30 08:27:40,367 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 26102018082731_GRUPO_524.xls gravado com sucesso
+2018-10-30 08:27:40,911 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 29102018084534_GRUPO_524.xls gravado com sucesso
+2018-10-30 08:27:46,967 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-30 08:27:47,900 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-30 08:27:48,602 - log - INFO - GerarPlanilha - <module> - Arquivo 25102018095939_PED155183758.htm gravado com sucesso
+2018-10-30 08:27:49,319 - log - INFO - GerarPlanilha - <module> - Arquivo 29102018134459_PED156789987.htm gravado com sucesso
+2018-10-30 13:00:24,541 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-30 13:00:52,170 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-30 13:01:00,392 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-30 13:01:01,622 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-30 13:01:02,256 - log - INFO - GerarPlanilha - <module> - Arquivo 30102018091037_PED154802692.htm gravado com sucesso
+2018-10-30 17:54:28,774 - log - ERROR - <ipython-input-8-5295c8ad67ef> - LerArqGeral - Erro ao gravar o arquivo 16102018173053.html
+2018-10-30 17:57:14,750 - log - ERROR - <ipython-input-11-5295c8ad67ef> - LerArqGeral - Erro ao gravar o arquivo 16102018173053.html
+2018-10-30 17:57:22,750 - log - ERROR - <ipython-input-14-5295c8ad67ef> - LerArqGeral - Erro ao gravar o arquivo 16102018173053.html
+2018-10-31 08:30:29,340 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-31 08:30:59,772 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-31 08:31:09,517 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-31 08:31:10,547 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-31 13:00:06,054 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 31102018084752_GRUPO_700.xls gravado com sucesso
+2018-10-31 13:00:06,588 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 31102018084837_GRUPO_700.xls gravado com sucesso
+2018-10-31 13:00:27,270 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-10-31 13:00:53,459 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-10-31 13:00:54,183 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 31102018084954_GRUPO_524.xls gravado com sucesso
+2018-10-31 13:00:54,564 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 31102018085158_GRUPO_524.xls gravado com sucesso
+2018-10-31 13:01:02,167 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-10-31 13:01:03,270 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-31 16:04:52,402 - log - ERROR - <ipython-input-58-45c2e8c14467> - func_Descompacta - Erro ao descompactar o arquivo Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip
+2018-10-31 16:05:38,780 - log - ERROR - <ipython-input-60-45c2e8c14467> - func_Descompacta - Erro ao descompactar o arquivo Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip
+2018-10-31 16:07:14,960 - log - ERROR - <ipython-input-62-8fa78be4da86> - func_Descompacta - Erro ao descompactar o arquivo Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip
+2018-10-31 16:21:09,504 - log - ERROR - <ipython-input-73-8a1a6a6d0149> - func_Descompacta - Erro ao descompactar o arquivo Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip
+2018-10-31 16:49:53,926 - log - ERROR - <ipython-input-95-b417ecf65023> - func_Descompacta - Erro ao descompactar o arquivo Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip
+2018-10-31 16:50:43,587 - log - ERROR - <ipython-input-97-b417ecf65023> - func_Descompacta - Erro ao descompactar o arquivo Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip
+2018-10-31 17:20:28,858 - log - ERROR - <ipython-input-130-34ba66852a01> - func_Descompacta - Erro ao descompactar o arquivo Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip
+2018-10-31 17:24:05,593 - log - ERROR - <ipython-input-134-b81210cca9b3> - func_Descompacta - Erro ao descompactar o arquivo Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip
+2018-11-01 12:07:40,733 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-01 12:08:23,718 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-01 12:08:35,017 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-01 12:08:36,581 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-01 14:13:16,885 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-01 14:13:44,596 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-01 14:13:51,996 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-01 14:13:53,075 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-05 14:00:11,572 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 01112018083034_GRUPO_700.xls gravado com sucesso
+2018-11-05 14:00:12,894 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 05112018080648_GRUPO_700.xls gravado com sucesso
+2018-11-05 14:00:13,690 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 05112018081733_GRUPO_700.xls gravado com sucesso
+2018-11-05 14:01:03,252 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-05 14:01:12,819 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 05112018080512_GRUPO_435.xls gravado com sucesso
+2018-11-05 14:01:17,180 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 05112018080533_GRUPO_107.xls gravado com sucesso
+2018-11-05 14:02:08,894 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-05 14:02:10,960 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 01112018083303_GRUPO_524.xls gravado com sucesso
+2018-11-05 14:02:11,607 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 05112018080812_GRUPO_524.xls gravado com sucesso
+2018-11-05 14:02:13,176 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 05112018081433_GRUPO_524.xls gravado com sucesso
+2018-11-05 14:02:27,778 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-05 14:02:32,829 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-05 14:02:34,156 - log - INFO - GerarPlanilha - <module> - Arquivo 01112018100559_PED156997268.htm gravado com sucesso
+2018-11-05 14:02:35,283 - log - INFO - GerarPlanilha - <module> - Arquivo 01112018141523_PED155661050.htm gravado com sucesso
+2018-11-05 14:02:36,513 - log - INFO - GerarPlanilha - <module> - Arquivo 01112018191251_PED157027159.htm gravado com sucesso
+2018-11-05 14:02:38,322 - log - INFO - GerarPlanilha - <module> - Arquivo 31102018153719_PED156966827.htm gravado com sucesso
+2018-11-06 08:21:29,755 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-06 08:22:06,659 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-06 08:22:14,770 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-06 08:22:16,673 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-06 14:00:28,405 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-06 14:01:00,444 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-06 14:01:09,604 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-06 14:01:11,363 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-07 13:57:12,960 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 06112018084234_GRUPO_700.xls gravado com sucesso
+2018-11-07 13:57:13,446 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 07112018101924_GRUPO_700.xls gravado com sucesso
+2018-11-07 13:57:33,673 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-07 13:58:03,313 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-07 13:58:04,384 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 06112018084318_GRUPO_524.xls gravado com sucesso
+2018-11-07 13:58:04,970 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 07112018102048_GRUPO_524.xls gravado com sucesso
+2018-11-07 13:58:13,360 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-11-07 13:58:13,360 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado com anexo de procedimento
+2018-11-07 13:58:14,810 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 06112018051529_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-07 13:58:15,980 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 07112018051556_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-07 13:58:17,916 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-07 13-58-14.xls gravado com sucesso
+2018-11-07 13:58:18,301 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-07 13-58-15.xls gravado com sucesso
+2018-11-07 13:58:19,757 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-07 13:58:21,592 - log - INFO - GerarPlanilha - <module> - Arquivo 06112018135859_PED153063312.htm gravado com sucesso
+2018-11-07 13:58:22,255 - log - INFO - GerarPlanilha - <module> - Arquivo 07112018100302_PED157141399.htm gravado com sucesso
+2018-11-07 13:58:22,963 - log - INFO - GerarPlanilha - <module> - Arquivo 07112018115053_PED157174701.htm gravado com sucesso
+2018-11-07 14:00:38,018 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-07 14:01:07,868 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-08 12:06:40,562 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 08112018093958_GRUPO_700.xls gravado com sucesso
+2018-11-08 12:07:05,743 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-08 12:07:36,882 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-08 12:07:38,603 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 08112018094228_GRUPO_524.xls gravado com sucesso
+2018-11-08 12:07:47,595 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-11-08 12:07:47,595 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado com anexo de procedimento
+2018-11-08 12:07:49,033 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 08112018051602_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-08 12:07:50,414 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-08 12-07-48.xls gravado com sucesso
+2018-11-08 12:07:52,027 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-08 12:07:52,741 - log - INFO - GerarPlanilha - <module> - Arquivo 08112018050727_PED155681540.htm gravado com sucesso
+2018-11-08 14:00:29,783 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-08 14:00:59,000 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-08 14:01:09,067 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-11-08 14:01:09,068 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado com anexo de procedimento
+2018-11-08 14:01:10,977 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-09 14:21:38,757 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 09112018080922_GRUPO_700.xls gravado com sucesso
+2018-11-09 14:22:03,251 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-11-09 14:22:03,251 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado com anexo de procedimento
+2018-11-09 14:22:06,302 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 09112018080848_GRUPO_435.xls gravado com sucesso
+2018-11-09 14:22:07,623 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 09112018080857_GRUPO_107.xls gravado com sucesso
+2018-11-09 14:22:40,016 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-11-09 14:22:40,016 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado com anexo de procedimento
+2018-11-09 14:22:40,771 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 09112018081137_GRUPO_524.xls gravado com sucesso
+2018-11-09 14:22:49,292 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-09 14:22:50,821 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 09112018051542_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-09 14:22:52,310 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-09 14-22-50.xls gravado com sucesso
+2018-11-09 14:22:54,211 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-09 14:22:54,925 - log - INFO - GerarPlanilha - <module> - Arquivo 08112018143935_PED157271336.htm gravado com sucesso
+2018-11-09 14:22:55,579 - log - INFO - GerarPlanilha - <module> - Arquivo 08112018190641_PED157277372.htm gravado com sucesso
+2018-11-12 08:30:29,477 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-12 08:31:07,597 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-12 08:31:17,497 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-12 08:31:19,602 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-12 14:00:07,779 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 12112018092729_GRUPO_700.xls gravado com sucesso
+2018-11-12 14:00:41,418 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-12 14:01:23,648 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-12 14:01:24,798 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 12112018092108_GRUPO_524.xls gravado com sucesso
+2018-11-12 14:01:35,479 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-12 14:01:37,515 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 10112018051719_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-12 14:01:39,744 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 11112018051336_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-12 14:01:41,819 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 12112018051305_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-12 14:01:43,322 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-12 14-01-37.xls gravado com sucesso
+2018-11-12 14:01:43,478 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-12 14:01:44,085 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-12 14-01-41.xls gravado com sucesso
+2018-11-12 14:01:45,895 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-12 14:01:46,791 - log - INFO - GerarPlanilha - <module> - Arquivo 12112018102707_PED157333686.htm gravado com sucesso
+2018-11-12 14:01:47,763 - log - INFO - GerarPlanilha - <module> - Arquivo 12112018115948_PED157333893.htm gravado com sucesso
+2018-11-13 08:23:27,096 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-13 08:24:04,011 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-13 08:24:13,928 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-13 08:24:14,360 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-13 08:24:16,835 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-13 14:00:07,530 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 13112018095136_GRUPO_700.xls gravado com sucesso
+2018-11-13 14:00:48,901 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-11-13 14:00:48,903 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado com anexo de procedimento
+2018-11-13 14:02:10,293 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-13 14:02:12,634 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 13112018095232_GRUPO_524.xls gravado com sucesso
+2018-11-13 14:02:26,835 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-13 14:02:28,882 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 13112018051517_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-13 14:02:29,304 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-13 14:02:30,622 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-13 14-02-28.xls gravado com sucesso
+2018-11-13 14:02:32,291 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-14 10:45:24,567 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-14 10:45:58,753 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-14 10:46:12,744 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-14 10:46:29,174 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 14112018051521_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-14 10:46:30,361 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-14 10:46:32,898 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-14 10-46-15.xls gravado com sucesso
+2018-11-14 10:46:34,476 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-14 10:46:35,954 - log - INFO - GerarPlanilha - <module> - Arquivo 13112018154424_PED157296689.htm gravado com sucesso
+2018-11-14 14:00:09,703 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 14112018111000_GRUPO_700.xls gravado com sucesso
+2018-11-14 14:00:35,501 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-11-14 14:00:35,501 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado com anexo de procedimento
+2018-11-14 14:01:07,959 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-14 14:01:09,120 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 14112018111153_GRUPO_524.xls gravado com sucesso
+2018-11-14 14:01:18,177 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-14 14:01:19,078 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-14 14:01:20,243 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-19 08:25:53,675 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-19 08:26:30,520 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-19 08:26:39,662 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-19 08:26:39,899 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-19 08:26:41,745 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-19 14:00:06,571 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19112018093616_GRUPO_700.xls gravado com sucesso
+2018-11-19 14:00:07,922 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19112018094138_GRUPO_700.xls gravado com sucesso
+2018-11-19 14:00:08,747 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19112018095209_GRUPO_700.xls gravado com sucesso
+2018-11-19 14:00:37,064 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-19 14:00:39,803 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19112018093407_GRUPO_435.xls gravado com sucesso
+2018-11-19 14:00:41,910 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19112018093426_GRUPO_107.xls gravado com sucesso
+2018-11-19 14:01:16,223 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-19 14:01:16,925 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19112018093810_GRUPO_524.xls gravado com sucesso
+2018-11-19 14:01:17,342 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19112018094547_GRUPO_524.xls gravado com sucesso
+2018-11-19 14:01:18,006 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 19112018095459_GRUPO_524.xls gravado com sucesso
+2018-11-19 14:01:27,587 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-19 14:01:29,060 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 15112018051648_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-19 14:01:30,526 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 17112018051546_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-19 14:01:31,845 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 18112018051347_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-19 14:01:33,317 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 19112018051240_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-19 14:01:33,533 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-19 14:01:34,869 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-19 14-01-28.xls gravado com sucesso
+2018-11-19 14:01:35,206 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-19 14-01-30.xls gravado com sucesso
+2018-11-19 14:01:35,592 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-19 14-01-31.xls gravado com sucesso
+2018-11-19 14:01:35,940 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-19 14-01-33.xls gravado com sucesso
+2018-11-19 14:01:37,381 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-19 14:01:38,099 - log - INFO - GerarPlanilha - <module> - Arquivo 16112018135249_PED157507457.htm gravado com sucesso
+2018-11-19 14:01:38,731 - log - INFO - GerarPlanilha - <module> - Arquivo 19112018130508_PED156112133.htm gravado com sucesso
+2018-11-21 08:30:59,023 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-21 08:31:33,238 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-21 08:31:43,563 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-21 08:31:43,892 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-21 08:31:46,546 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-21 14:00:15,820 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 21112018094229_GRUPO_700.xls gravado com sucesso
+2018-11-21 14:00:16,785 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 21112018094305_GRUPO_700.xls gravado com sucesso
+2018-11-21 14:01:00,979 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-21 14:01:59,932 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-21 14:02:01,065 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 21112018094419_GRUPO_524.xls gravado com sucesso
+2018-11-21 14:02:01,482 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 21112018094706_GRUPO_524.xls gravado com sucesso
+2018-11-21 14:02:12,628 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-11-21 14:02:12,628 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado com anexo de procedimento
+2018-11-21 14:02:13,014 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-21 14:02:14,264 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-21 14:02:15,072 - log - INFO - GerarPlanilha - <module> - Arquivo 19112018152012_PED157555061.htm gravado com sucesso
+2018-11-22 11:37:17,477 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-22 11:37:53,360 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-22 11:38:03,167 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-22 11:38:03,467 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-22 11:38:04,751 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-22 14:00:05,872 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 22112018102130_GRUPO_700.xls gravado com sucesso
+2018-11-22 14:00:33,561 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-22 14:01:09,726 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-22 14:01:10,746 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 22112018102419_GRUPO_524.xls gravado com sucesso
+2018-11-22 14:01:21,434 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-11-22 14:01:21,434 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado com anexo de procedimento
+2018-11-22 14:01:23,054 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 22112018051850_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-22 14:01:23,308 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-22 14:01:28,002 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-22 14-01-22.xls gravado com sucesso
+2018-11-22 14:01:29,189 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-22 14:01:29,837 - log - INFO - GerarPlanilha - <module> - Arquivo 21112018150711_PED157589570.htm gravado com sucesso
+2018-11-23 08:07:01,188 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-23 08:07:44,866 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-23 08:07:55,738 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-23 08:07:55,987 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-23 08:07:58,049 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-23 14:00:34,324 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-23 14:01:11,319 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-23 14:01:23,606 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-23 14:01:23,974 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-23 14:01:25,202 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-26 08:57:09,481 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-26 08:57:46,816 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-26 08:57:56,394 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-26 08:57:56,764 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-26 08:57:58,283 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-26 14:00:07,996 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 23112018090635_GRUPO_700.xls gravado com sucesso
+2018-11-26 14:00:08,491 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 26112018083654_GRUPO_700.xls gravado com sucesso
+2018-11-26 14:00:38,317 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-26 14:00:41,742 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 23112018090550_GRUPO_435.xls gravado com sucesso
+2018-11-26 14:00:43,045 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 23112018090601_GRUPO_107.xls gravado com sucesso
+2018-11-26 14:01:22,573 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-26 14:01:23,896 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 23112018090844_GRUPO_524.xls gravado com sucesso
+2018-11-26 14:01:24,645 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 26112018083102_GRUPO_524.xls gravado com sucesso
+2018-11-26 14:01:37,914 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-26 14:01:39,663 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 23112018052042_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-26 14:01:41,220 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 24112018051630_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-26 14:01:42,771 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 25112018051344_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-26 14:01:44,522 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 26112018051246_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-26 14:01:44,776 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-26 14:01:46,326 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-26 14-01-39.xls gravado com sucesso
+2018-11-26 14:01:46,811 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-26 14-01-40.xls gravado com sucesso
+2018-11-26 14:01:47,397 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-26 14-01-42.xls gravado com sucesso
+2018-11-26 14:01:47,512 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-11-26 14:01:49,000 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-26 14:01:49,802 - log - INFO - GerarPlanilha - <module> - Arquivo 23112018143337_PED157709124.htm gravado com sucesso
+2018-11-27 08:34:29,905 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-27 08:35:07,931 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-27 08:35:19,368 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-27 08:35:19,615 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-27 08:35:19,700 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-11-27 08:35:21,802 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-27 14:00:08,641 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 27112018082429_GRUPO_700.xls gravado com sucesso
+2018-11-27 14:00:37,864 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-27 14:01:17,346 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-27 14:01:18,330 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 27112018082528_GRUPO_524.xls gravado com sucesso
+2018-11-27 14:01:30,930 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-27 14:01:32,538 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 27112018052024_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-27 14:01:32,813 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-27 14:01:32,923 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-11-27 14:01:34,536 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-27 14-01-32.xls gravado com sucesso
+2018-11-27 14:01:36,178 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-27 14:01:36,903 - log - INFO - GerarPlanilha - <module> - Arquivo 27112018103544_PED156934281.htm gravado com sucesso
+2018-11-27 14:01:37,592 - log - INFO - GerarPlanilha - <module> - Arquivo 27112018104045_PED156935001.htm gravado com sucesso
+2018-11-27 14:01:38,174 - log - INFO - GerarPlanilha - <module> - Arquivo 27112018114219_PED157866189.htm gravado com sucesso
+2018-11-28 08:31:14,729 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-28 08:31:53,044 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-28 08:32:03,135 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-28 08:32:03,473 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-28 08:32:03,590 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-11-28 08:32:05,565 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-28 12:17:21,663 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 28112018085602_GRUPO_700.xls gravado com sucesso
+2018-11-28 12:17:46,901 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-28 12:18:28,443 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-28 12:18:29,607 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 28112018085716_GRUPO_524.xls gravado com sucesso
+2018-11-28 12:18:40,915 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-28 12:18:44,392 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 28112018053727_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-28 12:18:44,705 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-28 12:18:44,867 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-11-28 12:18:46,340 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-28 12-18-44.xls gravado com sucesso
+2018-11-28 12:18:48,067 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-28 12:18:48,854 - log - INFO - GerarPlanilha - <module> - Arquivo 27112018161134_PED157844273.htm gravado com sucesso
+2018-11-28 14:00:34,408 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-28 14:01:14,371 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-28 14:01:25,691 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-28 14:01:26,493 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-28 14:01:26,624 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-11-28 14:01:27,864 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-29 08:19:56,211 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-29 08:20:33,427 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-29 08:20:43,132 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-29 08:20:43,348 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-29 08:20:43,448 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-11-29 08:20:45,506 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-29 14:00:06,674 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 29112018083334_GRUPO_700.xls gravado com sucesso
+2018-11-29 14:00:34,432 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-29 14:01:13,435 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-29 14:01:14,429 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 29112018083640_GRUPO_524.xls gravado com sucesso
+2018-11-29 14:01:27,569 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-11-29 14:01:27,569 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado com anexo de procedimento
+2018-11-29 14:01:28,985 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 29112018063829_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-11-29 14:01:29,176 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-29 14:01:29,257 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-11-29 14:01:30,595 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-11-29 14-01-28.xls gravado com sucesso
+2018-11-29 14:01:31,764 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-30 08:53:50,293 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-30 08:54:31,268 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-30 08:54:41,995 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-30 08:54:42,264 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-30 08:54:42,364 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-11-30 08:54:43,483 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-11-30 14:00:34,156 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-11-30 14:01:18,031 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-11-30 14:01:30,019 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-11-30 14:01:30,308 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-11-30 14:01:30,406 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-11-30 14:01:31,812 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-12-03 08:24:44,203 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-12-03 08:25:35,192 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-12-03 08:25:49,798 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-12-03 08:25:50,214 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-12-03 08:25:50,369 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-12-03 08:25:52,467 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-12-03 14:00:22,911 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 03122018082144_GRUPO_700.xls gravado com sucesso
+2018-12-03 14:00:25,084 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 30112018100456_GRUPO_700.xls gravado com sucesso
+2018-12-03 14:01:38,851 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-12-03 14:01:49,488 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 30112018100431_GRUPO_107.xls gravado com sucesso
+2018-12-03 14:01:51,996 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 30112018100433_GRUPO_435.xls gravado com sucesso
+2018-12-03 14:03:28,127 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-12-03 14:03:31,473 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 03122018081512_GRUPO_524.xls gravado com sucesso
+2018-12-03 14:03:32,153 - log - INFO - Gestao_de_Senhas - LerArqGeral - Arquivo 30112018100641_GRUPO_524.xls gravado com sucesso
+2018-12-03 14:04:00,108 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-12-03 14:04:04,747 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 01122018051646_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-12-03 14:04:10,243 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 02122018051339_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-12-03 14:04:17,781 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 03122018051319_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-12-03 14:04:21,628 - log - INFO - CapturaLefort - func_Descompacta - Arquivo 30112018051836_Relatórios de Estipulantes (Somente com Parâmetro de Estipulante).zip gravado com sucesso
+2018-12-03 14:04:21,928 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-12-03 14:04:22,154 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-12-03 14:04:25,216 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-12-03 14-04-04.xls gravado com sucesso
+2018-12-03 14:04:25,357 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-12-03 14-04-09.xls
+2018-12-03 14:04:25,984 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-12-03 14-04-17.xls gravado com sucesso
+2018-12-03 14:04:26,847 - log - INFO - CapturaLefort - func_Ler_Arquivo - Arquivo Extrct2018-12-03 14-04-21.xls gravado com sucesso
+2018-12-03 14:04:29,574 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-12-03 14:04:30,793 - log - INFO - GerarPlanilha - <module> - Arquivo 29112018162322_PED157992272.htm gravado com sucesso
+2018-12-03 14:04:32,863 - log - INFO - GerarPlanilha - <module> - Arquivo 29112018191027_PED157981673.htm gravado com sucesso
+2018-12-04 08:40:44,515 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Valid email eviado sem anexo
+2018-12-04 08:56:05,621 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Energisa email eviado sem anexo
+2018-12-04 08:58:04,409 - log - INFO - Gestao_de_Senhas - Ver_Senhas - Gestão de Senhas Paranapanema email eviado sem anexo
+2018-12-04 08:58:07,151 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-12 14-01-39.xls
+2018-12-04 08:58:08,026 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-11-26 14-01-44.xls
+2018-12-04 08:58:08,967 - log - ERROR - CapturaLefort - func_Ler_Arquivo - Erro ao descompactar o arquivo Extrct2018-12-03 14-04-09.xls
+2018-12-04 08:58:23,974 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
